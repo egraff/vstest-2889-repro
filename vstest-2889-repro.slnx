@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="NuGet.Config" />
+  </Folder>
+  <Folder Name="/Solution Items/tests/">
+    <Project Path="tests/VSTestIssueReproTests.csproj" />
+  </Folder>
+</Solution>
