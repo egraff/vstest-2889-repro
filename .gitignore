@@ -480,3 +480,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+/generated_repro
+!/generated_repro/.gitkeep

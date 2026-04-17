@@ -2,7 +2,10 @@
   <Folder Name="/Solution Items/">
     <File Path="NuGet.Config" />
   </Folder>
-  <Folder Name="/Solution Items/tests/">
+  <Folder Name="/src/">
+    <Project Path="src/Src001/Src001.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
     <Project Path="tests/VSTestIssueReproTests.csproj" />
   </Folder>
 </Solution>
